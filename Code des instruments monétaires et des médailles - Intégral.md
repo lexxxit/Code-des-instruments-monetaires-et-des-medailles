@@ -1,5 +1,5 @@
 # Code des instruments monétaires et des médailles  
-Version Consolidée au 1973-01-01
+Version Consolidée au 1993-03-30
 
 # Chapitre I : Monnaies et médailles
 
@@ -312,25 +312,25 @@ Il doit être déposé, tant à la Bibliothèque nationale qu'au musée monétai
 deux exemplaires de chaque type nouveau de monnaie nationale et un exemplaire en bronze de chaque médaille nouvelle frappée à
 la Monnaie.
 
-Sous peine d'une amende de 3.000 à 6.000 F [*sanctions*] pour chaque infraction dûment constatée, toute personne autorisée à
-frapper des médailles en dehors de la Monnaie devra déposer à la Bibliothèque nationale, d'une part, et au musée monétaire,
-d'autre part, dans le délai de quarante jours après la première frappe, un exemplaire de chaque médaille nouvelle choisi
-parmi les meilleurs au point de vue de la perfection d'exécution.
+Sous peine d'une amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5 ème classe
+[*sanctions*] pour chaque infraction dûment constatée, toute personne autorisée à frapper des médailles en dehors de la
+Monnaie devra déposer à la Bibliothèque nationale, d'une part, et au musée monétaire, d'autre part, dans le délai de quarante
+jours après la première frappe, un exemplaire de chaque médaille nouvelle choisi parmi les meilleurs au point de vue de la
+perfection d'exécution.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°52-751 1952-06-26
-	  - Loi n°58-346 1958-04-03 (validation)
-
-	**Créé par**:
-
-	  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993
 
 	**Cité par**:
 
 	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-13 (M)
 
 
 ## Section II : Circulation des monnaies métalliques
