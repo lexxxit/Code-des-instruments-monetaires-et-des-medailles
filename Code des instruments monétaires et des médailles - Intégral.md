@@ -1,5 +1,5 @@
 # Code des instruments monétaires et des médailles  
-Version Consolidée au 1968-11-28
+Version Consolidée au 1973-01-01
 
 # Chapitre I : Monnaies et médailles
 
@@ -334,67 +334,6 @@ parmi les meilleurs au point de vue de la perfection d'exécution.
 
 
 ## Section II : Circulation des monnaies métalliques
-
-### Paragraphe I : Commission de contrôle de la circulation monétaire.
-
-###### Article 14
-
-Le contrôle de la circulation monétaire est assuré par une commission de douze membres désignés : deux par l'Assemblée
-nationale, un par le Sénat, un par le Conseil économique, un par le Conseil d'Etat, un par la Cour des comptes, un par la
-Banque de France, deux par l'Académie des sciences et deux par la Chambre de commerce et d'industrie de Paris.
-
-La commission élit son président, elle le choisit parmi ses membres.
-
-Les nominations sont faites pour trois ans ; les membres sont rééligibles, leurs fonctions sont gratuites.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-751 1952-06-26
-	  - Loi n°58-346 1958-04-03 (validation)
-
-	**Créé par**:
-
-	  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
-
-
-###### Article 15
-
-La commission s'assure de la régularité de l'émission des pièces au point de vue du poids et du titre, et, à cet effet, elle
-fait vérifier, à la fin de chaque année, des échantillons prélevés sur chacune des brèves admises en délivrance dans le cours
-de cette année. Cette vérification porte également sur des pièces extraites de la circulation. Le nombre et le mode de
-prélèvement de ces échantillons ainsi que les mesures nécessaires pour garantir leur identité, sont déterminés par décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-751 1952-06-26
-	  - Loi n°58-346 1958-04-03 (validation)
-
-	**Créé par**:
-
-	  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
-
-
-###### Article 16
-
-Dans le premier mois de chaque année, la commission remet au Président de la République un rapport sur les résultats de la
-fabrication effectuée pendant l'année précédente et sur la situation matérielle de la circulation. Ce rapport est publié et
-distribué à l'Assemblée nationale et au Sénat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°52-751 1952-06-26
-	  - Loi n°58-346 1958-04-03 (validation)
-
-	**Créé par**:
-
-	  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
-
 
 ### Paragraphe II : Trafic des monnaies étrangères.
 
