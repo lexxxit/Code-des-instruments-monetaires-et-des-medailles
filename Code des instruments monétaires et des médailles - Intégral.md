@@ -1,5 +1,5 @@
 # Code des instruments monétaires et des médailles  
-Version Consolidée au 1952-06-29
+Version Consolidée au 1953-02-07
 
 # Chapitre I : Monnaies et médailles
 
@@ -682,6 +682,35 @@ du budget annexe de l'administration des monnaies et médailles.
 	**Créé par**:
 
 	  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-1223 2000-12-24 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+
+###### Article 28
+
+L'administration des monnaies et médailles est autorisée à frapper, pour le compte de l'Etat, des pièces de 10 francs (0,10
+F), 20 francs (0,20 F) et 50 francs (0,50 F) en métal commun dont la composition, les caractéristiques et le type sont fixés
+par arrêté du ministre de l'économie et des finances.
+
+L'ensemble des émissions des pièces de 10 francs (0,10 F) , 20 francs (0,20 F) et 50 francs (0,50 F), visées à l'alinéa
+précédent, ne pourra dépasser 40 milliards de francs (400 000 000 F).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°52-751 1952-06-26
+	  - Loi n°58-346 1958-04-03 (validation)
+
+	**Créé par**:
+
+	  - Décret n°52-751 1952-06-26 JORF 29 juin 1952 rectificatif JORF 10 juillet 1952
+
+	**Cité par**:
+
+	  - Code des instruments monétaires et des médailles - art. 29 (Ab)
 
 	**Abrogé par**:
 
