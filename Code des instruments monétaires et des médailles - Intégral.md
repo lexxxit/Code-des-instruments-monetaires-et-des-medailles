@@ -1,5 +1,5 @@
 # Code des instruments monétaires et des médailles  
-Version Consolidée au 1953-02-07
+Version Consolidée au 1958-12-24
 
 # Chapitre I : Monnaies et médailles
 
@@ -864,26 +864,6 @@ d'outre-mer le privilège d'émission dans ces départements.
 	**Cité par**:
 
 	  - Rapport - art. 4 (V)
-
-
-###### Article 35
-
-Sous réserve des dispositions de l'article précédent, la souscription ou l'émission de billets au porteur ayant pour objet de
-remplacer ou de suppléer la monnaie est punie des peines portées contre les faux monnayeurs.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°52-751 du 26 juin 1952, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°52-751 du 26 juin 1952, v. init.
-
-	**Abrogé par**:
-
-	  - Ordonnance n°58-1298 du 23 décembre 1958 - art. 43, v. init.
 
 
 ## Paragraphe II : Contrefaçon des billets de banque.
