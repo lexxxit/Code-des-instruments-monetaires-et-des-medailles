@@ -1,5 +1,5 @@
 # Code des instruments monétaires et des médailles  
-Version Consolidée au 1958-12-24
+Version Consolidée au 1968-11-28
 
 # Chapitre I : Monnaies et médailles
 
@@ -88,30 +88,6 @@ privée les monnaies françaises de billon.
 	**Cité par**:
 
 	  - Rapport - art. 4 (V)
-
-
-###### Article 4
-
-Il est expressément défendu à tous particuliers de fabriquer ou de faire fabriquer directement ou indirectement des monnaies
-de métal sous quelque forme ou dénomination que ce soit sous peine, pour les contrevenants, d'être punis de quinze ans de
-travaux forcés et de confiscation desdites monnaies.
-
-Seront passibles des mêmes peines ceux qui auront introduit ou fait circuler de telles monnaies sur le territoire de la
-République.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°52-751 du 26 juin 1952, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°52-751 du 26 juin 1952, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°68-1035 du 27 novembre 1968- art. 4, v. init.
 
 
 ###### Article 5
