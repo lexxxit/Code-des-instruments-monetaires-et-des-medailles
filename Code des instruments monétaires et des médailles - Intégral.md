@@ -1,5 +1,5 @@
 # Code des instruments monétaires et des médailles  
-Version Consolidée au 2001-01-01
+Version Consolidée au 2002-01-01
 
 # Chapitre I : Monnaies et médailles
 
@@ -81,18 +81,18 @@ concernent les arts et l'imprimerie.
 
 ###### Article 11
 
-Chacun des contrevenants aux dispositions de l'article 9 sera condamné à une amende de 25.000 F [*sanctions*] et à 50.000 F
-en cas de récidive.
+Chacun des contrevenants aux dispositions de l'article 9 sera condamné à une amende de 3750 euros et à 7500 euros en cas de
+récidive.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code des instruments monétaires et des médailles - art. 9 (M)
+	  - Code des instruments monétaires et des médailles - art. 9 (V)
 
 
 ###### Article 12
